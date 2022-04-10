@@ -1,3 +1,11 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+/* Extra styles on header */
+.undausdndua {
+  color: #2d2fad;
+  fill: #a0e6ff;
+  box-shadow: 0 20px 20px rgb(135, 242, 252);
+}
+/* <div class="drop-shadow-[0_25px_25px_rgb(135, 242, 252)]"> */
