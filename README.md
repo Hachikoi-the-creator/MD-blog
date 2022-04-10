@@ -37,3 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Notes
 - **Parsing error : Cannot find module 'next/babel'**
 (solution)[https://stackoverflow.com/questions/68163385/parsing-error-cannot-find-module-next-babel]
+
+## SRC
+(Blog)[https://blog.openreplay.com/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour]
