@@ -40,3 +40,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## SRC
 (Blog)[https://blog.openreplay.com/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour]
+
+### Install Prism code highlight in React
+- npm i prismjs
+- download the desired theme and lang support (CSS)
+- import it into _app.js/app.js(.jsx)
+- if it's not working, just refresh :D
