@@ -46,3 +46,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - download the desired theme and lang support (CSS)
 - import it into _app.js/app.js(.jsx)
 - if it's not working, just refresh :D
+
+### note to self
+*in the end... css framworks ain't that bad*
