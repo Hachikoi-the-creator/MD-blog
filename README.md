@@ -48,4 +48,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - if it's not working, just refresh :D
 
 ### note to self
-*in the end... css framworks ain't that bad*
+- *in the end... css framworks ain't that bad*
+- **Never change the name of the components in a Nextjs app...** (reason)[https://stackoverflow.com/questions/65651791/modulenotfounderror-module-not-found-error-cant-resolve-components-chart]
