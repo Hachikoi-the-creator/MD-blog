@@ -3,6 +3,7 @@ import matter from 'gray-matter';
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
+import Prism from 'prismjs';
 
 export async function getStaticProps() {
   const files = fs.readdirSync('posts');
