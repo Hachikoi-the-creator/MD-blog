@@ -10,28 +10,28 @@ tags:
   - Vite
 ---
 
-# Small and quick guide
+# Intro
 Based on the blog [Techomoro](https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/?unapproved=21780&moderation-hash=7b965ee1540f7d9d4219e2a9911b4d26#comment-21780) go there for a more in-depth explanation.
 
 I just wanted to make a simple site whit multiple pages, but then I went to the docs and... they were different, it seems like a transition was made, anyway copied the code, nothing worked and no error logs whatsoever... 
 
-## Instructions
-1. **Instal Vite**
+# Instructions
+## Instal Vite 
 
 - `npm init vite`
 - `cd` into the project
 - `npm i` to install packages
 
-2. **install react router**
+## install react router
 
 `npm install react-router-dom@6`
 
-3. **Create some dummy files**
+## Create dummy files
 
 Mine was `components/About.js`
 and `components/Home.js`
 
-4. **Update your index.js/main.jsx**
+## Update main.jsx
 
 ```js
 import About from "./components/About";
@@ -49,7 +49,7 @@ ReactDOM.render(
 );
 ```
 
-5. **Update About & Home components**
+## Update About & Home components
 
 *About*
 ```js
