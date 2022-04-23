@@ -4,6 +4,8 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import Prism from 'prismjs';
+// import '../styles/prism.css';
+// Prism.highlightAll();
 
 export async function getStaticProps() {
   const files = fs.readdirSync('posts');
@@ -48,7 +50,6 @@ export default function Home({ posts }) {
               <h1 className='p-4'>{frontmatter.title}</h1>
             </a>
           </Link>
-          {/* {console.log(frontmatter)} */}
         </div>
       ))}
     </div>
