@@ -2,7 +2,7 @@
 title: 'Hamburger menu that hiddes on click outside'
 metaTitle: 'Basic React Router 6 & Vite'
 metaDesc: 'How to make simple multipage application using react(vite) and react router'
-socialImage: images/post1-img.webp
+socialImage: images/post2-img.webp
 date: '11-04-2022'
 tags:
   - HTML
