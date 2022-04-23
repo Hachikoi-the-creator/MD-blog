@@ -30,14 +30,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - *in the end... css framworks ain't that bad*
 - **Never change the name of the components in a Nextjs app...** (reason)[https://stackoverflow.com/questions/65651791/modulenotfounderror-module-not-found-error-cant-resolve-components-chart]
 
-## TODO:
-- Try to make the header fixed pos and mofidy the component inside anoter div to put some margin up!
-```jsx
-<>
-  <Header />{/*add pos fixed in the component itself*/}
-  <div className="mt-6">
-    <Component {...pageProps} />
-  </div>
-  <Footer />
-</>
-```
