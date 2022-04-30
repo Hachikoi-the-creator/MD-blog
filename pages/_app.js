@@ -4,7 +4,9 @@ import '../styles/globals.css';
 import Prism from 'prismjs';
 import '../styles/prism.css';
 
+
 function MyApp({ Component, pageProps }) {
+
   return (
     <>
       <Header />
